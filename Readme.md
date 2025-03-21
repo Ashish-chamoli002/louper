@@ -1,4 +1,4 @@
-# Project Name
+# Louper automation assignment
 
 ## Running Cypress Tests
 
